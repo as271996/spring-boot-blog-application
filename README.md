@@ -127,8 +127,8 @@ Maven installation is optional because the project includes the Maven Wrapper.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/as271996/Blogapplication.git
-cd Blogapplication
+git clone https://github.com/as271996/spring-boot-blog-application.git
+cd spring-boot-blog-application
 ```
 
 ### 2. Create the PostgreSQL Database
